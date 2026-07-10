@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="scrum-em-projetos-culturais" src="https://github.com/user-attachments/assets/6eb2c3bb-0824-4bd3-9b81-0bfbad608910" />
+
 # Agilidade na Cultura: Como o Scrum Transformou Burocracia em Alta Performance (Casos SESC, MAR E Louvre)
 
 Este repositório reúne o material de apoio do artigo técnico **"Agilidade na Cultura: Como o Scrum Transformou Burocracia em Alta Performance (Casos SESC, MAR e Louvre)"**.
